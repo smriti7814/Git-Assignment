@@ -1,2 +1,3 @@
 Name: Smriti Manrow
 City: Mohali
+Skills: Python , Django
